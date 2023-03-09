@@ -1,7 +1,7 @@
-.cards__description{
+.cards__description {
   line-height: 23px;
   font-size: 18px;
-  font-style: normal;
+  font-weight: normal;
   text-align: center;
-  margin-bottom: 0;
+  margin: 0;
 }

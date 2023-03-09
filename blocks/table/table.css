@@ -1,10 +1,8 @@
 .table {
   display: flex;
-  flex-direction: column;
-  flex-flow: row wrap;
+  flex-wrap: wrap;
   justify-content: space-between;
-  align-content: space-between;
-  width: 1100px;
-  margin: 0 auto 100px auto;
+  max-width: 1100px;
+  margin: 0;
   padding-left: 0;
 }
